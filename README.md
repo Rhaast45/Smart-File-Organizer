@@ -20,6 +20,12 @@ A native Windows desktop file organizer. Choose a folder, preview the proposed m
 - Runs on your computer; your files are never uploaded.
 - Uses Python's standard library for the desktop app; no web server or runtime dependencies are needed.
 
+## Devs
+
+- Michael Ortinero
+- John Earl Campos
+- Rudolf Eric Mateo
+
 ## Project structure
 
 ```text
