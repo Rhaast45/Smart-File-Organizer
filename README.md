@@ -4,7 +4,7 @@ A native Windows desktop file organizer. Choose a folder, preview the proposed m
 
 ## Download here:
 
--[Click here to download ](https://mega.nz/file/iAVzBIQJ#JVckngmvrXPCcEJhcYlhOdnXSXLdRMM-3EmMBumA6rw)
+# [Download ](https://mega.nz/file/iAVzBIQJ#JVckngmvrXPCcEJhcYlhOdnXSXLdRMM-3EmMBumA6rw)
 
 ## Links
 
