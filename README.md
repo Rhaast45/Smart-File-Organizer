@@ -8,9 +8,9 @@ A native Windows desktop file organizer. Choose a folder, preview the proposed m
 
 ## Links
 
--[Facebook](https://www.facebook.com/RTNeru)
--[linkedin](https://www.linkedin.com/in/michael-ortinero-a59b30427/)
--[GitHub](https://github.com/Rhaast45)
+- [Facebook](https://www.facebook.com/RTNeru)
+- [linkedin](https://www.linkedin.com/in/michael-ortinero-a59b30427/)
+- [GitHub](https://github.com/Rhaast45)
 
 ## Features
 
